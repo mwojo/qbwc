@@ -20,3 +20,5 @@ matrix:
 
 before_install:
   - gem update bundler
+
+install: bundle install
